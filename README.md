@@ -35,7 +35,7 @@ ionic serve
 
 **Note that I am not responsible for any misuse of any of my examples.**
 
-> Habib AlMawali :smirk_cat:
+>Credits to Habib AlMawal:
 =======
 # ionic5-movieapp-ui
 Ionic Movie directory mobile application UI template
