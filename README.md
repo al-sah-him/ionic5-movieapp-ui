@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ionic 5 Movies Application - Mobile App UI User Interface Project Using Ionic with Angular Framework.
 
 ## Developed Using:
@@ -35,3 +36,7 @@ ionic serve
 **Note that I am not responsible for any misuse of any of my examples.**
 
 > Habib AlMawali :smirk_cat:
+=======
+# ionic5-movieapp-ui
+Ionic Movie directory mobile application UI template
+>>>>>>> 709507478062eaeb3c866d08b4f697cf8ee757fa
